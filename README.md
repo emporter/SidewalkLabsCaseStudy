@@ -3,11 +3,12 @@
   author: Emily Porter (emilysporter@gmail.com)
 
 #### Overview:
-	  * An Anaconda Jupyter notebook running Python 3.9 reads the data files from web and generates visualizations to show:
-		  * - global energy generation by source in 2018
-		  * - global electricity consumption by end use between 2008-2018
-	  * The notebook contains additional descriptions of the underlying data set in markdown boxes and also outlines potential future investigations to pursue
-	  using the same data.
+An Anaconda Jupyter notebook running Python 3.9 reads the data files from web and generates visualizations to show:
+
+		  * global energy generation by source in 2018
+		  
+		  * global electricity consumption by end use between 2008-2018
+The notebook contains additional descriptions of the underlying data set in markdown boxes and also outlines potential future investigations to pursue using the same data.
 
 #### Libraries:
 	* pandas as pd
