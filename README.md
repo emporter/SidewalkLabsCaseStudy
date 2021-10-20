@@ -27,3 +27,5 @@
 	Open the Jupyter notebook in web browser (Anaconda must be installed) and run all cells. Webscraping the data is the slowest part of the notebook. After 
 	running, scroll down through the notebook to see visualizations and additional notes in markdown boxes.
 
+![screenshot](https://github.com/emporter/SidewalkLabsCaseStudy/blob/main/Q1_plot_screenshot.PNG)
+![screenshot](https://github.com/emporter/SidewalkLabsCaseStudy/blob/main/Q2_plot_screenshot.PNG)
